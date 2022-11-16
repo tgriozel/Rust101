@@ -1,4 +1,4 @@
-fn main() {
+pub fn main() {
     let a_string = String::from("hello world");
 
     // `first_word` works on slices of `String`s, whether partial or whole
